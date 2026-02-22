@@ -8,5 +8,6 @@
 - Updated [README](<./README.md>)
 - Added notes in progress for Objective 1.0 - Mobile Devices
 - Included pictures and screenshots for studying
-
 ---
+### February 21, 2026
+- Added Core 1 acronyms list from the CompTIA A+ objectives file for easier reading
