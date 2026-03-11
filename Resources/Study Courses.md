@@ -14,6 +14,7 @@ Here are the online courses that are recommended by many people preparing for th
 - [CompTIA A+ 220-1201 Training Course by Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnnes8ZGI-OBlKEukHCX46N8)
 - [CompTIA A+ 220-1202 Training Course by Professor Messer](https://youtube.com/playlist?list=PLG49S3nxzAnn7PDGQ17m5AYbDRhnW7vOb&si=O_8rRfcAJVh0ovmo)
 - [CompTIA A+ 1201 & 1202 Training Course by BurningIceTech](https://youtube.com/playlist?list=PLc6LqxQFwub_mlYYO4r3MrRKBf-9s84Yq&si=jBD9z9WlVE_QN_dJ)
+- [CompTIA A+ 220-1201 Course by Tech Gee](https://www.youtube.com/playlist?list=PLRz6WSRkXmiGDFnQBTqARn1GPwkd1aDMF)
 
 ## [Udemy](https://udemy.com/)
 - [CompTIA A+ Core 1 (220-1201) Full Course & Practice Exam - Jason Dion](https://www.udemy.com/course/comptia-a-core-1/)
